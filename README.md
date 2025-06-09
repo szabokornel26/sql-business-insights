@@ -17,7 +17,7 @@ This project contains a set of SQL queries designed to extract valuable business
     * [Top 10 Active Customers by Revenue](#top-10-active-customers-by-revenue)
     * [Top 2 Product Types by Largest Quantity Decrease (Based on Churn)](#top-2-product-types-by-largest-quantity-decrease-based-on-churn)
     * [Notification Activities Grouped by Open Rate](#notification-activities-grouped-by-open-rate)
-* [Usage](#usage)
+
 
 ---
 
